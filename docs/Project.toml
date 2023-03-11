@@ -1,0 +1,19 @@
+[deps]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+DocumenterTools = "35a29f4d-8980-5a13-9543-d66fff28ecb8"
+Einsum = "b7d42ee7-0b51-5a75-98ca-779d3107e4c0"
+FastGaussQuadrature = "442a2c76-b920-505d-bb47-c5924d526838"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+HypergeometricFunctions = "34004b35-14d8-5ef3-9330-4cdb6864b03a"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Polylogarithms = "43cc4a2f-1a2b-4fbb-87e3-95c794af13de"
+QuadGK = "1fd47b50-473d-5c70-9696-f719f8f3bcdc"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
+
+[compat]
+Documenter = "0.27"
