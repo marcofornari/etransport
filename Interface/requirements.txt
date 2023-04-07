@@ -4,5 +4,4 @@ requests
 matplotlib
 colorama
 argparse
-scipy
 PySide2==5.15
