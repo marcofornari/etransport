@@ -51,13 +51,13 @@
 
 ### Interface
 
-- numpy==1.21
-- pandas==1.3
-- requests==2.24
+- numpy
+- pandas
+- requests
+- matplotlib
+- colorama
+- argparse
 - PySide2==5.15
-- matplotlib==3.4
-- colorama=0.4
-- argparse==1.1
 
 ## Installation
 
