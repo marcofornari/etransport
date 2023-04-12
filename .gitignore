@@ -50,7 +50,6 @@ Thumbs.db
 node_modules/
 
 # added by Luca Bonaldo
-*.png
 *.csv
 *.bat
 *.pyc
