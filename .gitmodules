@@ -1,0 +1,3 @@
+[submodule "Mstar2t"]
+	path = Mstar2t
+	url = git@github.com:marcofornari/mSTAR2TP.git
