@@ -6,7 +6,7 @@
 
 ## Directory structure
 - **docs**: documentation of the code
-- **Mstar2t**: Julia package implementing the computing unit of m*2T
+- **Mstar2t**: Link to the repository of the Julia package implementing the computing unit of m*2T
   - src: source code
     - transport: Julia package which contains the methods to compute the transport coefficients
     - scattering: Julia package that implements different models for the relaxation time
@@ -26,7 +26,7 @@
 
 ## Dependencies
 
-### Computing unit (Julia)
+### Computing unit (Mstar2t.jl Julia package)
 
 - ArgParse == 1.1
 - CSV == 0.10
@@ -60,17 +60,16 @@
 - PySide2==5.15
 
 ## Installation
-
-First, clone the repository:
+Since `Mstar2t.jl` is a standalone Julia package, it is included as a submodule of the software. Therefore, when cloning the repository, the flag `--recurse-submodules` must be included to download all the files:
 
 HTTPS: 
 ```bash	
-$ git clone https://github.com/marcofornari/etrasport.git
+$ git clone --recurse-submodules https://github.com/marcofornari/etrasport.git
 ```
 
 SSH:
 ```bash	
-$ git clone git@github.com:marcofornari/etrasport.git
+$ git clone --recurse-submodules git@github.com:marcofornari/etrasport.git
 ```
 
 ### Computing unit
