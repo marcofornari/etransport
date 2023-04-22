@@ -2,7 +2,7 @@
 
 *Transport properties from multi-valley density of states in the relaxation time approximation.*
 
-[![](https://img.shields.io/badge/docs-dev-blue.svg)](https://marcofornari.github.io/etrasport/dev)
+[![](https://img.shields.io/badge/docs-dev-blue.svg)](https://marcofornari.github.io/Mstar2t.jl/dev/)
 
 ## Directory structure
 - **docs**: documentation of the code
